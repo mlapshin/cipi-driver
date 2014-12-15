@@ -1,0 +1,130 @@
+blank:
+_ _ _ _ _ _ _ _
+_ _ _ _ _ _ _ _
+_ _ _ _ _ _ _ _
+_ _ _ _ _ _ _ _
+_ _ _ _ _ _ _ _
+_ _ _ _ _ _ _ _
+_ _ _ _ _ _ _ _
+_ _ _ _ _ _ _ _
+
+
+red:
+r r r r r r r r
+r r r r r r r r
+r r r r r r r r
+r r r r r r r r
+r r r r r r r r
+r r r r r r r r
+r r r r r r r r
+r r r r r r r r
+
+
+green:
+g g g g g g g g
+g g g g g g g g
+g g g g g g g g
+g g g g g g g g
+g g g g g g g g
+g g g g g g g g
+g g g g g g g g
+g g g g g g g g
+
+
+yellow:
+y y y y y y y y
+y y y y y y y y
+y y y y y y y y
+y y y y y y y y
+y y y y y y y y
+y y y y y y y y
+y y y y y y y y
+y y y y y y y y
+
+
+red_cross:
+r _ _ _ _ _ _ r
+_ r _ _ _ _ r _
+_ _ r _ _ r _ _
+_ _ _ r r _ _ _
+_ _ _ r r _ _ _
+_ _ r _ _ r _ _
+_ r _ _ _ _ r _
+r _ _ _ _ _ _ r
+
+
+ok:
+_ _ _ _ _ _ _ g
+_ _ _ _ _ _ g g
+_ _ _ _ _ _ g _
+_ _ _ _ _ g g _
+g _ _ _ _ g _ _
+_ g _ _ g g _ _
+_ _ g g g _ _ _
+_ _ _ g g _ _ _
+
+
+smile:
+_ _ g g g g _ _
+_ g _ _ _ _ g _
+g _ r _ _ r _ g
+g _ _ _ _ _ _ g
+g g _ _ _ _ g g
+g _ g g g g _ g
+_ g _ _ _ _ g _
+_ _ g g g g _ _
+
+
+green_arrow:
+_ _ _ _ g _ _ _
+_ _ _ _ g g _ _
+_ _ _ _ g g g _
+g g g g g g g g
+g g g g g g g g
+_ _ _ _ g g g _
+_ _ _ _ g g _ _
+_ _ _ _ g _ _ _
+
+
+chr_h:
+r r _ _ _ _ r r
+r r _ _ _ _ r r
+r r _ _ _ _ r r
+r r r r r r r r
+r r r r r r r r
+r r _ _ _ _ r r
+r r _ _ _ _ r r
+r r _ _ _ _ r r
+
+
+chr_e:
+r r r r r r r r
+r r r r r r r r
+r r _ _ _ _ _ _
+r r r r r _ _ _
+r r r r r _ _ _
+r r _ _ _ _ _ _
+r r r r r r r r
+r r r r r r r r
+
+
+chr_l:
+r r _ _ _ _ _ _
+r r _ _ _ _ _ _
+r r _ _ _ _ _ _
+r r _ _ _ _ _ _
+r r _ _ _ _ _ _
+r r _ _ _ _ _ _
+r r r r r r r r
+r r r r r r r r
+
+
+chr_o:
+_ _ r r r r _ _
+_ r r r r r r _
+r r _ _ _ _ r r
+r r _ _ _ _ r r
+r r _ _ _ _ r r
+r r _ _ _ _ r r
+_ r r r r r r _
+_ _ r r r r _ _
